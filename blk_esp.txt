@@ -6,3 +6,11 @@
 0.0.0.0 www.primevideo.com
 0.0.0.0 www.deezer.com
 0.0.0.0 www.spotify.com
+0.0.0.0 disneyplus.com/es-ar
+0.0.0.0 www.disneyplus.com/es-ar
+0.0.0.0 netflix.com/ar/
+0.0.0.0 www.netflix.com/ar/
+0.0.0.0 primevideo.com/offers/
+0.0.0.0 www.primevideo.com/offers/
+0.0.0.0 www.deezer.com/es/offers
+0.0.0.0 open.spotify.com/intl-es
